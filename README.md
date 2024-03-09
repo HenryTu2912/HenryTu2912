@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, I'm Henry Tu
+
+- 😄I graduated from Computer System Technology at Saskatchewan Polytechnic major in Software Development.
+- ⚡I've been trained in using Java and C# in both web and mobile development.
+- 🌱I'm currently learning Python, React Native and PHP.
+- 📫How to reach me: https://www.linkedin.com/in/hungtu2912/
 
 <!--
 **HenryTu2912/HenryTu2912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
