@@ -1,6 +1,6 @@
 ### Hi, I'm Henry Tu
 
-I discovered a passion for web application development using the PERN stack and agile methodology, "LiveConnect Application". Subsequently, I served as an Applied Research Assistant for DICE - Saskatchewan Polytechnic, working as a full-stack developer on an agricultural stock management application.
+I discovered a passion for web application development when I participated in my capstone project using the PERN stack and agile methodology, "LiveConnect Application". Subsequently, I served as an Applied Research Assistant for DICE - Saskatchewan Polytechnic, working as a full-stack developer on an agricultural stock management application.
 
 I am currently seeking a role in back-end web development, with a preference for working with C# or PHP. I am particularly interested in joining a startup with a close-knit team where I can quickly make a meaningful impact. If you have any job opportunities available, please reach out to me. 
 
