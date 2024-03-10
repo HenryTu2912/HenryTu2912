@@ -1,9 +1,10 @@
 ### Hi, I'm Henry Tu
 
-- 😄I graduated from Computer System Technology at Saskatchewan Polytechnic major in Software Development.
-- ⚡I've been trained in using Java and C# in both web and mobile development.
-- 🌱I'm currently learning Python, React Native and PHP.
-- 📫How to reach me: https://www.linkedin.com/in/hungtu2912/
+I completed my studies in Computer System Technology at Saskatchewan Polytechnic; however, our program focused on software development at the beginning.  During my capstone project, I discovered a passion for web application development using the PERN stack and agile methodology, "LiveConnect Application". Subsequently, I served as an Applied Research Assistant for DICE - Saskatchewan Polytechnic, working as a full stack developer on a grain management application.
+
+I am currently seeking a role in back-end web development, with a preference for working with C# or PHP. I am particularly interested in joining a startup with a close-knit team where I can quickly make a meaningful impact. If you have any job opportunities available, please reach out to me. Thank you!
+
+📫How to reach me: https://www.linkedin.com/in/hungtu2912/
 
 <!--
 **HenryTu2912/HenryTu2912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
